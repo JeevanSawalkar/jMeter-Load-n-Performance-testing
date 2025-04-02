@@ -23,4 +23,7 @@ C:\apache-jmeter-5.4.3\bin>jmeter -n -t \apache-jmeter-5.4.3\backups\LoadTesting
 ```
 
 This executed the test plan in **non-GUI mode**, generated a **summary report**, and saved the results in a CSV file. The command output provided real-time performance data, including throughput, response times, and error rates, confirming the success of the load test.
-#### 
+#### Command line 
+![image](https://github.com/user-attachments/assets/95d8699b-2ef0-49f4-a9ad-6cf473aa8b41)
+#### Results
+![image](https://github.com/user-attachments/assets/5e748d6a-d30c-43fe-adfc-6e2cdccba14f)
