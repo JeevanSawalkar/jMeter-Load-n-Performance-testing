@@ -7,3 +7,16 @@ In my project on JMeter for load and performance testing, I worked in **GUI mode
 
 #### Test-Plan 
 ![image](https://github.com/user-attachments/assets/4472f1fd-9540-4be0-a014-4f85e6d46d30)
+#### Http Request 1 – Simplii-homepage
+![image](https://github.com/user-attachments/assets/3ede8e99-3d16-434b-9924-83fa43c8944e)
+#### Http Request 2 – Simplli-resources
+![image](https://github.com/user-attachments/assets/028ecc32-0e98-477b-9d09-8c55b0cbbf84)
+
+#### Results Tree – Listening output
+![image](https://github.com/user-attachments/assets/300d5d1c-42c8-4701-802d-c8b94499e0f5)
+
+
+
+
+
+#### 
