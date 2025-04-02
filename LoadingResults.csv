@@ -1,0 +1,12 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1743619085947,1037,Simplii,200,OK,Thread Group 1-1,text,true,,591936,248,1,1,https://www.simplilearn.com/,64,0,38
+1743619085947,66,Simplii-0,301,Moved Permanently,Thread Group 1-1,text,true,,569,124,1,1,http://www.simplilearn.com/,64,0,38
+1743619086015,969,Simplii-1,200,OK,Thread Group 1-1,text,true,,591367,124,1,1,https://www.simplilearn.com/,844,0,814
+1743619086986,369,Simplii/Resources,200,OK,Thread Group 1-1,text,true,,1685708,428,1,1,https://www.simplilearn.com/corporate-training,16,0,0
+1743619086986,16,Simplii/Resources-0,301,Moved Permanently,Thread Group 1-1,text,true,,588,143,1,1,http://www.simplilearn.com/corporate-training/,16,0,0
+1743619087003,40,Simplii/Resources-1,301,Moved Permanently,Thread Group 1-1,text,true,,636,143,1,1,https://www.simplilearn.com/corporate-training/,40,0,0
+1743619087044,311,Simplii/Resources-2,200,OK,Thread Group 1-1,text,true,,1684484,142,1,1,https://www.simplilearn.com/corporate-training,19,0,0
+1743619087355,359,Simplii/corporate-training,200,OK,Thread Group 1-1,text,true,,1685716,428,1,1,https://www.simplilearn.com/corporate-training,19,0,0
+1743619087355,19,Simplii/corporate-training-0,301,Moved Permanently,Thread Group 1-1,text,true,,588,143,1,1,http://www.simplilearn.com/corporate-training/,19,0,0
+1743619087374,18,Simplii/corporate-training-1,301,Moved Permanently,Thread Group 1-1,text,true,,636,143,1,1,https://www.simplilearn.com/corporate-training/,18,0,0
+1743619087393,321,Simplii/corporate-training-2,200,OK,Thread Group 1-1,text,true,,1684492,142,1,1,https://www.simplilearn.com/corporate-training,39,0,0
